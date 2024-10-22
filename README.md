@@ -1,4 +1,5 @@
-this project has two feature
+This project has two feature
+
 1)chat 
 in chat we creates a chat messaging app
 
